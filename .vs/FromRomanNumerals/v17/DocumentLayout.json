@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\i40020931\\OneDrive - Endress\u002BHauser\\Documents\\Visual Studio 2022\\Meine Aufgaben\\FromRomanNumerals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CADB59-CE2F-4313-8A2F-697D573E7179}|FromRomanNumerals\\FromRomanNumerals.csproj|c:\\users\\i40020931\\onedrive - endress\u002Bhauser\\documents\\visual studio 2022\\meine aufgaben\\fromromannumerals\\fromromannumerals\\romannumerals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CADB59-CE2F-4313-8A2F-697D573E7179}|FromRomanNumerals\\FromRomanNumerals.csproj|solutionrelative:fromromannumerals\\romannumerals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B9DF5A7-0BBD-47DB-B18E-DF581597AED9}|RomanNumeralsTest\\RomanNumeralsTest.csproj|c:\\users\\i40020931\\onedrive - endress\u002Bhauser\\documents\\visual studio 2022\\meine aufgaben\\fromromannumerals\\romannumeralstest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B9DF5A7-0BBD-47DB-B18E-DF581597AED9}|RomanNumeralsTest\\RomanNumeralsTest.csproj|solutionrelative:romannumeralstest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CADB59-CE2F-4313-8A2F-697D573E7179}|FromRomanNumerals\\FromRomanNumerals.csproj|c:\\users\\i40020931\\onedrive - endress\u002Bhauser\\documents\\visual studio 2022\\meine aufgaben\\fromromannumerals\\fromromannumerals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CADB59-CE2F-4313-8A2F-697D573E7179}|FromRomanNumerals\\FromRomanNumerals.csproj|solutionrelative:fromromannumerals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RomanNumerals.cs",
+              "DocumentMoniker": "C:\\Users\\i40020931\\OneDrive - Endress\u002BHauser\\Documents\\Visual Studio 2022\\Meine Aufgaben\\FromRomanNumerals\\FromRomanNumerals\\RomanNumerals.cs",
+              "RelativeDocumentMoniker": "FromRomanNumerals\\RomanNumerals.cs",
+              "ToolTip": "C:\\Users\\i40020931\\OneDrive - Endress\u002BHauser\\Documents\\Visual Studio 2022\\Meine Aufgaben\\FromRomanNumerals\\FromRomanNumerals\\RomanNumerals.cs",
+              "RelativeToolTip": "FromRomanNumerals\\RomanNumerals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:51:53.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\i40020931\\OneDrive - Endress\u002BHauser\\Documents\\Visual Studio 2022\\Meine Aufgaben\\FromRomanNumerals\\RomanNumeralsTest\\Test1.cs",
+              "RelativeDocumentMoniker": "RomanNumeralsTest\\Test1.cs",
+              "ToolTip": "C:\\Users\\i40020931\\OneDrive - Endress\u002BHauser\\Documents\\Visual Studio 2022\\Meine Aufgaben\\FromRomanNumerals\\RomanNumeralsTest\\Test1.cs",
+              "RelativeToolTip": "RomanNumeralsTest\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:47:30.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\i40020931\\OneDrive - Endress\u002BHauser\\Documents\\Visual Studio 2022\\Meine Aufgaben\\FromRomanNumerals\\FromRomanNumerals\\Program.cs",
+              "RelativeDocumentMoniker": "FromRomanNumerals\\Program.cs",
+              "ToolTip": "C:\\Users\\i40020931\\OneDrive - Endress\u002BHauser\\Documents\\Visual Studio 2022\\Meine Aufgaben\\FromRomanNumerals\\FromRomanNumerals\\Program.cs",
+              "RelativeToolTip": "FromRomanNumerals\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:47:05.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
